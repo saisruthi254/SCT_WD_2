@@ -1,0 +1,41 @@
+body {
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #0c1813;
+  color: white;
+}
+
+.container {
+  text-align: center;
+}
+
+#display {
+  font-size: 40px;
+  margin: 20px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 25px; 
+  background-color: #4a90e2;
+  color: white;
+
+  transition: all 0.3s ease;
+}
+
+#laps {
+  margin-top: 20px;
+  list-style: none;
+  padding: 0;
+}
+.lap-container {
+  background: rgba(255,255,255,0.1);
+  color: white;
+}
