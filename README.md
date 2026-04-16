@@ -1,4 +1,4 @@
-# ⏱️ Stopwatch Web Application
+#  Stopwatch Web Application
 
 This is a simple and interactive Stopwatch Web Application built using HTML, CSS, and JavaScript as part of my internship at SkillCraft Technology.
 
